@@ -7,7 +7,7 @@ A sophisticated web server implementing a Domain-Specific Language (DSL) for geo
 This project demonstrates the implementation of a custom Domain-Specific Language for geometric shape manipulation, composition, and visualization. The DSL allows for complex shape compositions through a declarative syntax, with the results viewable through a web interface.
 
 ## Further Reading
-For a more in-depth understanding of the DSL and its results, see the accompanying report.pdf or the results.mhtml file.
+For a more in-depth understanding of the DSL and its results, see the accompanying report.pdf or the web.htm file (along with the web_files/ directory).
 
 ## Technical Skills Demonstrated
 
